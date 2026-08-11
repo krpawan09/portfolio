@@ -973,9 +973,9 @@ h1.project1-head {
 
 /*index page start*/
 
-@media (max-width: 1700px) {
+@media (max-width: 1600px) {
 	.about-text {
-    margin-top: 3.4rem !important;
+    margin-top: 54.4px !important;
 	}
 }
 
