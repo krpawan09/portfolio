@@ -973,13 +973,23 @@ h1.project1-head {
 
 /*index page start*/
 
-@media (max-width: 1600px) {
+@media (max-width: 1920px) {
 	.about-text {
-    margin-top: 54.4px !important;
+    margin-top: 3.4rem !important;
+}
+	.work-text.mt-3 {
+		margin-top: 3.4rem !important;
 	}
 }
 
 @media (max-width: 1200px) {
+
+	.about-text {
+    margin-top: 2.5rem !important;
+}
+	.work-text.mt-3 {
+    margin-top: 2.5rem !important;
+}
 
 .personal-data {
     padding: 50px 25px;
