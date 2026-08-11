@@ -986,10 +986,10 @@ h1.project1-head {
 @media (max-width: 1400px) {
 
 	.about-text {
-    margin-top: 25px !important;
+    margin-top: 15px !important;
 }
 	.work-text.mt-3 {
-    margin-top: 25px !important;
+    margin-top: 15px !important;
 }
 }
 
