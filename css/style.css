@@ -974,6 +974,11 @@ h1.project1-head {
 /*index page start*/
 
 @media (max-width: 1200px) {
+	.about-text
+    margin-top: 3.4rem!important;
+}
+
+@media (max-width: 1200px) {
 
 .personal-data {
     padding: 50px 25px;
